@@ -1,2 +1,3 @@
 #/usr/bin/env set utf-8
+Add some test code.
 Hello, this is a help.txt file
