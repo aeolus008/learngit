@@ -1,1 +1,4 @@
 The format of file is UTF-8.
+#/usr/bin/env set utf-8
+Add some test code.
+Hello, this is a help.txt file
